@@ -1,6 +1,8 @@
 # Mongoose UUID Data type
 ========================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/niahmiah/mongoose-uuid.svg)](https://greenkeeper.io/)
+
 [![NPM Package](https://img.shields.io/npm/v/mongoose-uuid2.svg?style=flat-square)](https://www.npmjs.org/package/mongoose-uuid2)
 [![Build Status](https://img.shields.io/travis/niahmiah/mongoose-uuid.svg?branch=master&style=flat-square)](https://travis-ci.org/niahmiah/mongoose-uuid)
 [![Coverage Status](https://img.shields.io/coveralls/niahmiah/mongoose-uuid.svg?branch=master&style=flat-square)](https://coveralls.io/github/niahmiah/mongoose-uuid)
